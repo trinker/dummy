@@ -7,9 +7,8 @@ Author: Tyler Rinker
 Maintainer: Tyler Rinker <tyler.rinker@gmail.com>
 Description: This is where I test things and don't worry about it all going bad.
 Depends:
-    R (>= 2.15)
+    R (>= 3.0.0)
 License: GPL-2
 Collate:
-    'blah.R'
-    'guy.R'
     'dummy-package.R'
+    'test.R'
